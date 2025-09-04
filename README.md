@@ -15,8 +15,7 @@ g++ main.cpp -o outputBinaryName
 ## Some hints
 1. RationalNumber: See [User-defined literals](https://en.cppreference.com/w/cpp/language/user_literal.html)
 
-
-
-
-
+\
+\
+\
 Special thanks to Alexander Hakobyan for these resources.
