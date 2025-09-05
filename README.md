@@ -7,9 +7,12 @@ The requirements are written in source files. For example see Vector/Vector.h an
 You just need to compile main.cpp from the directory of a homework.
 Uncomment tests of includes for tests to build and run the project.
 ```
-cd HomeworkDirectory
-g++ main.cpp -o outputBinaryName
-./outputBinaryName
+cd HomeworkName
+mkdir build
+cd build
+cmake ..
+make
+./HomeworkName
 ```
 
 ## Some hints
